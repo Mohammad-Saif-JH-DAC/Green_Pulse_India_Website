@@ -1,0 +1,92 @@
+.contact-us-section {
+  background-color: #f8f9fa;
+}
+
+.section-title {
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.section-title span {
+  color: #27ae60;
+}
+
+.section-subtitle {
+  color: #7f8c8d;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-info-card, .contact-form-card, .map-card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+}
+
+.contact-info-card:hover, .contact-form-card:hover, .map-card:hover {
+  transform: translateY(-5px);
+}
+
+.contact-info-card {
+  background-color: #2c3e50;
+  color: white;
+}
+
+.contact-form-card {
+  background-color: white;
+}
+
+.info-item {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.info-icon {
+  font-size: 24px;
+  color: #27ae60;
+  margin-right: 20px;
+  margin-top: 5px;
+}
+
+.info-content h5 {
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #27ae60;
+}
+
+.info-content p {
+  margin-bottom: 5px;
+  color: #ecf0f1;
+}
+
+.form-title {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.submit-btn {
+  padding: 10px 30px;
+  font-weight: 600;
+  background-color: #27ae60;
+  border: none;
+}
+
+.submit-btn:hover {
+  background-color: #219653;
+}
+
+.map-card {
+  background-color: white;
+}
+
+.map-card h5 {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.map-container {
+  overflow: hidden;
+  border-radius: 8px;
+}
