@@ -29,7 +29,7 @@ export function Home() {
     useEffect(() => {
         const fetchVolunteerCount = async () => {
             try {
-                const response = await fetch('http://localhost:9000/VolunteerCount'); // Fixed endpoint
+                const response = await fetch('http://localhost:9000/VolunteerCount'); // To calculate volunteer count
                 if (!response.ok) {
                     throw new Error('Failed to fetch volunteer count');
                 }

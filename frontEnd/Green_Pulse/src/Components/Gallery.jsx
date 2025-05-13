@@ -68,44 +68,43 @@ const heroImages = [
 const galleryImages = [
     {
         images: [
-            'https://images.unsplash.com/photo-1601924638867-3a6de6b7a500?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-            'https://images.unsplash.com/photo-1526779259212-939e64788e3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-            'https://images.unsplash.com/photo-1509316785289-025f5b846b35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-        ],
+            'https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2017/03/05/Pictures/_f64834fe-019e-11e7-abb0-ce03674c2ba4.jpg',
+    'https://th.bing.com/th/id/OIP.befUGFHYude2T6wKWyE5kAHaEK',
+    'https://th.bing.com/th/id/OIP.kRABHH1ZWDD6mPJTIYY3RQHaFj'],
         alt: 'Beach cleanup by Green Pulse India volunteers',
         caption: 'Volunteers cleaning plastic waste from Mumbai`s coastline.',
     },
     {
         images: [
-            'https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-            'https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-            'https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
+            'https://th.bing.com/th/id/OIP.YYAty6CQV9Yo8D_jGdJZ6AHaEB?w=303&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
+            'https://th.bing.com/th/id/OIP.n8F7SSb351lJYxuFV59hCAHaEK?w=333&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7',
+            'https://th.bing.com/th/id/OIP.7TKtC8sSTlUq2FUwsGwGyQHaEK?w=288&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
         ],
         alt: 'Tree planting event',
         caption: 'Planting 10,000 saplings in Navi Mumbai to combat air pollution.',
     },
     {
         images: [
-            'https://images.unsplash.com/photo-1517649763962-0c623066013b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-            'https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-            'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
+            'https://w.ndtvimg.com/sites/3/2018/05/23100437/Plastic-and-waste-free-village2.jpg',
+            'https://th.bing.com/th/id/OIP.uukuo8Ya0hNDjhikfpMtngHaDV?w=1280&h=576&rs=1&pid=ImgDetMain',
+            'https://im.indiatimes.in/content/2023/Jun/This-is-the-first-time-that-the-villagers-of-Betul-district-are-dealing-with-such-a-large-order-for-mahua-flowers-Photo---Nandkishor-Pawar-101Reporters_64855fada4247.jpg',
         ],
         alt: 'Community workshop on waste management',
         caption: 'Educating rural communities on waste segregation.',
     },
     {
         images: [
-            'https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-            'https://images.unsplash.com/photo-1536939459926-301728717817?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-            'https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
+            'https://th.bing.com/th/id/OIP.h8xOJ0crORyDj2TbTCM7-AHaE7?w=165&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7',
+            'https://th.bing.com/th/id/OIP.2lEYnX-ONh1kFwZfuO6YDQHaEJ?w=320&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
+            'https://th.bing.com/th/id/OIP._FqxMda8o3Jk_ZYmk95znQHaEr?w=273&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
         ],
         alt: 'River cleanup initiative',
         caption: 'Restoring local rivers by removing pollutants.',
     },
     {
         images: [
-            'https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-            'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
+            'https://th.bing.com/th/id/OIP.zajNwDa6zxzQqYBqyzqn6AHaE8?w=294&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7',
+            'https://th.bing.com/th/id/OIP.eHbwib31CiOhhRiPpUDcQwAAAA?w=267&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
             'https://images.unsplash.com/photo-1527525443983-6e60c75fff46?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
         ],
         alt: 'Eco-friendly workshop for kids',
@@ -113,9 +112,9 @@ const galleryImages = [
     },
     {
         images: [
-            'https://images.unsplash.com/photo-1508514177221-188b1cfd5af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-            'https://images.unsplash.com/photo-1509391366360-2e959784a276?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
-            'https://images.unsplash.com/photo-1508514177221-188b1cfd5af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1080&q=80',
+            'https://th.bing.com/th/id/OIP.417a1ygp-OUYa87q9-0w2QHaHa?w=174&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
+            'https://th.bing.com/th/id/OIP._DXXBxpX_t75-R6BOZxXNgHaE7?w=232&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
+            'https://th.bing.com/th/id/OIP.NI3ISJZZVy1bYDc7NmeIBQHaE8?w=290&h=193&c=7&r=0&o=5&dpr=1.3&pid=1.7',
         ],
         alt: 'Solar panel installation',
         caption: 'Promoting clean energy with solar installations in villages.',
